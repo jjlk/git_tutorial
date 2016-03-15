@@ -1,3 +1,3 @@
 import sys
 
-print('Salut {} !'.format('Julien'))
+print('Salut {} !!'.format('Julien'))
