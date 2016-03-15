@@ -1,3 +1,4 @@
 import sys
 
-print('Salut {} !!'.format('Julien'))
+name = 'Julien'
+print('Salut {} !!'.format(x))
